@@ -1,5 +1,5 @@
 <!---
-![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
+![image](https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
 --->
 ![logo](readme/Cosmic%20Rush%20Logo.png)
 
@@ -61,10 +61,10 @@ Cosmic Rush
   - <details>
     <summary><strong>📸 Daily Scrum ekran görüntüleri için tıkla!</strong></summary>
 
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/17576e3a-a1b6-466f-9acc-2d02e56a09c0" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/a80ae811-c363-4a6e-b7cd-190f03e856a3" width="45%">
+    <img src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30" width="45%">
+    <img src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8" width="45%">
+    <img src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/163685679/17576e3a-a1b6-466f-9acc-2d02e56a09c0" width="45%">
+    <img src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/163685679/a80ae811-c363-4a6e-b7cd-190f03e856a3" width="45%">
   </details>
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Oyun ile ilgili blacklog düzeni ve story seçimleri trello tablosunda açık bir şekilde belirtilmiştir.
@@ -80,7 +80,7 @@ Cosmic Rush
 
 İlk Hali | Yenilenmiş Hali
 :-: | :-:
-<video src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/61845bdc-bd8d-43df-b1e0-c1ec8ea19693"></video><img src="readme/S1 Cosmic Rush Başlangıç Ekranı 1.jpg" > | <video src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/85761842/67e32f68-86fd-4576-bc42-e42124915dad"></video><img src="readme/S1 Cosmic Rush Başlangıç Ekranı 2.jpg">
+<video src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/85761842/61845bdc-bd8d-43df-b1e0-c1ec8ea19693"></video><img src="readme/S1 Cosmic Rush Başlangıç Ekranı 1.jpg" > | <video src="https://github.com/Arcdashckr/OUA-Bootcamp-Grup87/assets/85761842/67e32f68-86fd-4576-bc42-e42124915dad"></video><img src="readme/S1 Cosmic Rush Başlangıç Ekranı 2.jpg">
 
 - **Sprint Review:**
   - **Alınan kararlar**: Oyunun üretiminin planlı ilerlemesi için ekip üyelerinin her birine 2 adet gezegen tasarımı verilmiştir. Fakat bir yandan da oyunun ilerlemesi için yeterli olmamıştır. O sebeple tasarım dağılımı  bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
@@ -198,7 +198,7 @@ Gezegen Tasarımları | Bölüm Tasarımları
 :-: | :-:
 <img src="readme/1621792592.gif" height="150px"></br><img src="readme/2011727577.gif" height="150px"></br><img src="readme/3854352658.gif" height="150px"> | <img src="readme/1621792592.png" height="150px"></br><img src="readme/2011727577.png" height="150px"></br><img src="readme/3854352658.png" height="150px">
 Oynanış videosu | Oyun bitiş sahnesi
-<a href="https://www.youtube.com/watch?v=d_fuz9SnKg8"><img src="https://img.youtube.com/vi/d_fuz9SnKg8/0.jpg" height="200px"></a> | <img src="readme/EndScreen.png" height="175px">
+<a href="https://www.youtube.com/watch?v=EDzQlcwfo_Q"><img src="https://img.youtube.com/vi/EDzQlcwfo_Q/0.jpg" height="200px"></a> | <img src="readme/EndScreen.png" height="175px">
 
 - **Sprint Review:**
 
